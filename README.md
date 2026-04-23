@@ -47,14 +47,6 @@ I’m currently working on building projects—watch this space 👀
 
 ---
 
-## 📫 Connect With Me
-- Email: nmtetweni7@gmail.com  
-- LinkedIn: *# Hi, I'm Ntombikhona Mtetweni 👋
-
-💡 Health Regulatory Professional | Aspiring Data Scientist | Digital Health Enthusiast  
-
----
-
 ## 👩‍⚕️ About Me
 I am a health sector professional with experience in regulatory compliance at SAHPRA, working across medical devices and inspectorate functions.  
 
