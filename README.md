@@ -55,6 +55,3 @@ I’m currently working on building projects—watch this space 👀
 
 ✨ *"Using data and technology to improve healthcare systems and outcomes."*  
 
----
-
-✨ *"Using data and technology to improve healthcare systems and outcomes."*
